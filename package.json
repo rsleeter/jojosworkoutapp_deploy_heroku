@@ -13,6 +13,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cli": "^1.7.4",
     "@angular/common": "^4.0.0",
     "@angular/compiler": "^4.0.0",
     "@angular/compiler-cli": "^4.0.0",
@@ -34,7 +35,6 @@
     "mongoose": "^4.13.11"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.4",
     "@types/jasmine": "2.5.38",
     "@types/node": "~6.0.60",
     "codelyzer": "~2.0.0",
